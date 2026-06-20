@@ -137,6 +137,13 @@ This combination provided the best balance between performance, interpretability
 
 ---
 
+## Live Application
+
+A deployed version of this project is available here:
+https://comment-category-predictor-app-si.streamlit.app/
+
+ ---
+
 ## Additional Experiments
 
 After obtaining a competitive submission, further experiments were performed to explore possible improvements:
@@ -188,7 +195,6 @@ Through this project, I learned:
 
 * Jupyter Notebook
 * Google Colab
-
 
 ---
 
